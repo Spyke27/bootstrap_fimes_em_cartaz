@@ -15,5 +15,6 @@
 
  ## Resultado 💻
  <img src="https://i.imgur.com/4ufBD6d.png" alt="print">
+ <hr>
  <img src="https://i.imgur.com/r7J0ceT.png" alt="print">
 
