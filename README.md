@@ -1,5 +1,7 @@
 <h1 align="center">Filmes em Cartaz</h1>
 
+# Site completamente responsivo!
+
 ## Principais Tecnologias Usadas 📓
 <ul>
     <li>HTML</li>
