@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./assets/css/bootstrap.min.css" />    
+    <title>Cartaz</title>
+</head>
+<body>
+
+    <header>
+        <div class="navbar navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="#"><h1>CinePrime</h1></a>                
+                <nav>
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link text-uppercase" data-bs-toggle="modal" data-bs-target="#window" href="#">Sobre</a>
+
+                            <div class="modal fade" id="window" aria-labelledby="window">
+                                <div class="modal-dialog modal-dialog-centered">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title">Projeto da Generation</h5>
+                                            <button class="btn-close" data-bs-dismiss="modal"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <p>Esse projeto foi feito utilizando os princípios básicos de bootstrap e totalmente responsivo, consumindo uma API da b7web.<br/> <hr> Link do Repositório: <a class="text-decoration-none" href="https://github.com/Spyke27/bootstrap_fimes_em_cartaz" target="_blank">Github.com/Spyke27</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="bg-dark">
+        <section class="p-5 bg-dark">
+            <h1 class="text-center text-light">Filmes em Cartaz</h1>
+        </section>
+        <section>
+            <div class="container">
+                <div class="row movies"></div>
+            </div>
+        </section>        
+    </main>
+    
+<footer class="text-center bg-light">
+    <div class="text-center text-white" style="background-color: #0a4275;">
+        <div class="container p-4 pb-0">
+        <section class="">
+            <p class="d-flex justify-content-center align-items-center">
+            <span class="me-3">Veja mais</span>
+                <a class="text-decoration-none btn btn-outline-light" href="https://github.com/Spyke27">GitHub</a>
+            </p>
+        </section>
+        </div>
+
+        <!-- Copyright -->
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+        © 2022 Copyright:
+        <a class="text-decoration-none" href="https://github.com/Spyke27" target="_blank">Rodrigo Daniel</a>
+        </div>
+        <!-- /Copyright -->
+    </div>
+</footer>
+
+    <script type="text/javascript" src="./assets/js/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="./assets/js/script.js"></script>
+</body>
+</html>
