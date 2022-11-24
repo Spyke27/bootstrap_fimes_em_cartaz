@@ -13,8 +13,8 @@
 ## Projeto 💻
  Este projeto foi feito em sala de aula pela Generation, com o intuito de treinar e aperfeiçoar o uso de bootstrap. Nele foi utilizado a API da b7web fornecida em suas aulas no curso.
 
- ## Link do rpojeto rodando:
-    🔰 https://bootstrapcine.netlify.app/
+ ## Projeto rodando:
+ 🔰 Link: https://bootstrapcine.netlify.app/
 
  ## Resultado 💻
  <img src="https://i.imgur.com/4ufBD6d.png" alt="print">
